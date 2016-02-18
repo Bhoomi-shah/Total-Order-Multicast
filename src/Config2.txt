@@ -1,0 +1,18 @@
+n=6
+Votes=19
+r=6
+w=14
+o=3
+g=1
+file.txt 
+0 net02.utdallas.edu 9200 2 
+1 net03.utdallas.edu 9200 1
+2 net09.utdallas.edu 9200 4
+3 net05.utdallas.edu 9200 6 
+4 net06.utdallas.edu 9200 5
+5 net10.utdallas.edu 9200 1
+
+
+
+
+

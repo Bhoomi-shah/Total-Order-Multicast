@@ -1,0 +1,8 @@
+0 read FileXYZ
+0 write FileXYZ
+1 read FileABC
+1 read FileXYZ
+2 write FileABC
+2 write FileXYZ
+3 read FileABC
+3 read FileABC
